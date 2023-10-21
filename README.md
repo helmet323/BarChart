@@ -24,6 +24,6 @@ The barchart has the following parameters:
 
 # Demo
 
-Click the following link for a demo:
+Click the following link for a demo: https://tommy-su-barchart.netlify.app/
 
 There is a form to change the details of the bar chart. Make sure that the values and labels are seperated by a comma as shown in the default graph.
